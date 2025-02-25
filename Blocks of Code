@@ -1,0 +1,8 @@
+  name = 'Darryl'
+  password = 'kraken'
+  if name == 'Darryl':
+    ➊ print('Hello, Darryl')
+       if password == 'kraken':
+        ➋ print('Access granted.')
+       else:
+        ➌ print('Wrong password.')
